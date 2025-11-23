@@ -10,6 +10,8 @@ Here’s a humanized README text based on your project and the recommended struc
 
 ## Technologies/Tools Used
 - Python (core programming language)
+- def function
+- 
 
 ## Steps to Install & Run the Project
 1. **Clone the repository**  
